@@ -1,7 +1,7 @@
 /**
- * @module viperdev/Halloween
+ * @module viper-dev/halloween
  * @author ViperDevelopment <support@vipercord.com>
- * @license ISC
+ * @license MIT
  */
 
 const spacetime = require('spacetime');
