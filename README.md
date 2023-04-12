@@ -1,4 +1,4 @@
-# christmas.js
+# halloween.js
 
 Get the number of months, weeks, days, hours, minutes, seconds, or the total time left until Halloween (with timezone support).
 
@@ -13,7 +13,7 @@ Install with npm/pnpm/yarn:
 ### Example
 
 ```js
-const christmas = require('@harley200317/halloween');
+const halloween = require('@harley200317/halloween');
 console.log(halloween.getDays());
 ```
 
