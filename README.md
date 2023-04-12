@@ -6,14 +6,14 @@ Get the number of months, weeks, days, hours, minutes, seconds, or the total tim
 
 Install with npm/pnpm/yarn:
 
-`npm i @viper-dev/halloween/halloween`
+`npm i @viper-dev/halloween`
 
 ## Usage
 
 ### Example
 
 ```js
-const halloween = require('@viper-dev/halloween/halloween');
+const halloween = require('@viper-dev/halloween');
 console.log(halloween.getDays());
 ```
 
