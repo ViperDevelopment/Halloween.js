@@ -1,0 +1,32 @@
+{
+	"name": "@harley200317/halloween",
+	"private": false,
+	"version": "1.0.0",
+	"description": "Get the time left until Halloween",
+	"files": [
+		"src/"
+	],
+	"main": "src/index.js",
+	"scripts": {
+		"docs": "jsdoc -c .jsdoc.json --verbose",
+    	"test": "node test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ViperDevelopment/halloween.js.git"
+	},
+	"author": "eartharoid",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ViperDevelopment/halloween.js/issues"
+	},
+	"homepage": "https://github.com/ViperDevelopment/halloween.js#readme",
+	"dependencies": {
+		"spacetime": "^6.16.3"
+	},
+	"devDependencies": {
+		"@rdipardo/clean-jsdoc": "github:rdipardo/clean-jsdoc-theme",
+		"eslint": "^8.1.0",
+		"jsdoc": "^3.6.7"
+	}
+}
