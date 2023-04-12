@@ -1,5 +1,5 @@
 /**
- * @module harley200317/Halloween
+ * @module viperdev/Halloween
  * @author ViperDevelopment <support@vipercord.com>
  * @license ISC
  */
